@@ -1,0 +1,7 @@
+team: INVENTORY
+type: service
+component: github-runner
+maintainers:
+  - christoph.burmeister
+  - martin.gerlach
+  - steve.teuber
